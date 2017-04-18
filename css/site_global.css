@@ -184,7 +184,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-family: open-sans, sans-serif;
 	font-size: 24px;
 	font-weight: 300;
-	padding: 0px 0px 20px;
+	padding: 10px 0px 20px;
 }
 
 .Paragraph-Style-5

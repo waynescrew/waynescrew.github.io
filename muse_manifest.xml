@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mamamarshruuuuuut.com" resolutions="1x" timestamp="1492497252448">
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="mamamarshruuuuuut.com" resolutions="1x" timestamp="1492528730968">
   <folder name="css">
-    <file name="site_global.css" crc="63325310"/>
-    <file name="index.css" crc="4186012638" ref="index"/>
-    <file name="nomq_index.css" crc="371972835" ref="index"/>
+    <file name="site_global.css" crc="422840731"/>
+    <file name="index.css" crc="415112513" ref="index"/>
+    <file name="nomq_index.css" crc="204319301" ref="index"/>
     <file name="iefonts_index.css" crc="16253483" ref="index"/>
   </folder>
   <folder name="assets">
@@ -57,10 +57,9 @@
     <file name="dsc_0995-u11603.png" crc="3887700597" ref="index"/>
     <file name="dsc_0966-u11597.png" crc="3910717275" ref="index"/>
     <file name="dsc_0981-u11599.png" crc="434210150" ref="index"/>
-    <file name="u11592-28.png" crc="178127641" ref="index"/>
-    <file name="u11606-45.png" crc="480105000" ref="index"/>
-    <file name="u11611-59.png" crc="487424037" ref="index"/>
-    <file name="u11608-17.png" crc="3778672344" ref="index"/>
+    <file name="u11606-45.png" crc="186614454" ref="index"/>
+    <file name="u11611-59.png" crc="4105123438" ref="index"/>
+    <file name="u11608-17.png" crc="137821649" ref="index"/>
     <file name="1439901125-950033__viaduk2-crop-u114932.jpg" crc="153657910" ref="index"/>
     <file name="vorohta-lito1-crop-u114952.jpg" crc="3939975391" ref="index"/>
     <file name="ozero-nesamovyte-3-u114972.png" crc="119793761" ref="index"/>
@@ -101,10 +100,6 @@
     <file name="dsc_0995-u116032.png" crc="14029640" ref="index"/>
     <file name="dsc_0966-u115972.png" crc="161475512" ref="index"/>
     <file name="dsc_0981-u115992.png" crc="4089703962" ref="index"/>
-    <file name="u11592-282.png" crc="519573255" ref="index"/>
-    <file name="u11606-452.png" crc="3850291698" ref="index"/>
-    <file name="u11611-592.png" crc="4229374041" ref="index"/>
-    <file name="u11608-172.png" crc="104112106" ref="index"/>
     <file name="1439901125-950033__viaduk2-crop-u114933.jpg" crc="4179967352" ref="index"/>
     <file name="vorohta-lito1-crop-u114953.jpg" crc="4027116225" ref="index"/>
     <file name="ozero-nesamovyte-3-u114973.png" crc="4124114771" ref="index"/>
@@ -145,54 +140,44 @@
     <file name="dsc_0995-u116033.png" crc="4134604303" ref="index"/>
     <file name="dsc_0966-u115973.png" crc="159778070" ref="index"/>
     <file name="dsc_0981-u115993.png" crc="4290796753" ref="index"/>
-    <file name="u11592-283.png" crc="3987387290" ref="index"/>
-    <file name="u11606-453.png" crc="343306670" ref="index"/>
-    <file name="u11611-593.png" crc="117381252" ref="index"/>
-    <file name="u11608-173.png" crc="3970604780" ref="index"/>
-    <file name="1439901125-950033__viaduk2-crop-u114934.jpg" crc="110857925" ref="index"/>
-    <file name="vorohta-lito1-crop-u114954.jpg" crc="158546934" ref="index"/>
-    <file name="ozero-nesamovyte-3-u114974.png" crc="218149571" ref="index"/>
-    <file name="wpid-ozero-nesamovite_i_11-u114994.png" crc="534081177" ref="index"/>
-    <file name="79110778-u115064.png" crc="378397551" ref="index"/>
-    <file name="17288_800x600_igor-melika-14-20-08-11-143-u115044.png" crc="4279836205" ref="index"/>
-    <file name="0_f4594_236f57f3_-1-orig-u115114.png" crc="3919036523" ref="index"/>
-    <file name="0_f459d_99307f8a_orig-u115134.png" crc="397868398" ref="index"/>
-    <file name="0_f45b8_41e4f963_orig-crop-u115173.jpg" crc="481271401" ref="index"/>
-    <file name="0_f45be_aa72b0d8_orig-crop-u115192.jpg" crc="4161574953" ref="index"/>
-    <file name="0_f45c3_f2bc9382_orig-u115234.png" crc="4090907034" ref="index"/>
-    <file name="0_f45c2_110a800a_orig-u115214.png" crc="4273723688" ref="index"/>
-    <file name="800xs14_9710-m-crop-u115264.jpg" crc="4044242150" ref="index"/>
-    <file name="1625540_v3m3bjiedchnvhsecqv8xpzg3n0dzs4nskawiaemsww-crop-u115284.jpg" crc="509404524" ref="index"/>
-    <file name="0_f45d4_3053677b_orig-u115314.png" crc="4285332689" ref="index"/>
-    <file name="0_f45cb_635195ed_orig-u115334.png" crc="207690647" ref="index"/>
-    <file name="0_f45d1_6c589b5a_orig-u115484.png" crc="3958111082" ref="index"/>
-    <file name="img_5774-u115524.png" crc="336709655" ref="index"/>
-    <file name="5-pidjom-na-vershynu-petros-u115504.png" crc="3991461280" ref="index"/>
-    <file name="0_f45e0_d36004e5_orig-crop-u115544.jpg" crc="428721363" ref="index"/>
-    <file name="adrkrmuphnixvobom9r4muv0a-u115584.png" crc="4083972269" ref="index"/>
-    <file name="p42-u115564.png" crc="124768718" ref="index"/>
-    <file name="7-vyd-iz-petrosa-crop-u115604.jpg" crc="136034966" ref="index"/>
-    <file name="11-vyd-na-goverlu-iz-petrosa-crop-u115624.jpg" crc="3793413886" ref="index"/>
-    <file name="wpid-dsc_1374-u115644.png" crc="4287785073" ref="index"/>
-    <file name="wpid-dsc_1397-u115664.png" crc="3910602750" ref="index"/>
-    <file name="wpid-dsc_1262-u115684.png" crc="66528043" ref="index"/>
-    <file name="0_b5507_f71e3500_xxl-crop-u115704.jpg" crc="4285718981" ref="index"/>
-    <file name="img_0978-crop-u115724.jpg" crc="325667512" ref="index"/>
-    <file name="img_0982-crop-u115744.jpg" crc="287977496" ref="index"/>
-    <file name="0_b550d_2014e4f3_xxl-crop-u115764.jpg" crc="3764264487" ref="index"/>
-    <file name="0_b550f_1e082818_xxl-crop-u115784.jpg" crc="310311405" ref="index"/>
-    <file name="28_full-crop-u115864.jpg" crc="203826355" ref="index"/>
-    <file name="20_full-u115844.png" crc="4234238331" ref="index"/>
-    <file name="19_full-crop-u115934.jpg" crc="116537809" ref="index"/>
-    <file name="32_full-crop-u115954.jpg" crc="3767346547" ref="index"/>
-    <file name="dsc_0990-crop-u11601.jpg" crc="3865820224" ref="index"/>
-    <file name="dsc_0995-u116034.png" crc="131778835" ref="index"/>
-    <file name="dsc_0966-crop-u11597.jpg" crc="3763953637" ref="index"/>
-    <file name="dsc_0981-u115994.png" crc="233611269" ref="index"/>
-    <file name="u11592-284.png" crc="479594614" ref="index"/>
-    <file name="u11606-454.png" crc="4176042086" ref="index"/>
-    <file name="u11611-594.png" crc="3880728825" ref="index"/>
-    <file name="u11608-174.png" crc="370606518" ref="index"/>
+    <file name="1439901125-950033__viaduk2-crop-u114934.jpg" crc="122783982" ref="index"/>
+    <file name="vorohta-lito1-crop-u114954.jpg" crc="79119310" ref="index"/>
+    <file name="ozero-nesamovyte-3-u114974.png" crc="4171282414" ref="index"/>
+    <file name="wpid-ozero-nesamovite_i_11-u114994.png" crc="4205278405" ref="index"/>
+    <file name="79110778-u115064.png" crc="3847498112" ref="index"/>
+    <file name="17288_800x600_igor-melika-14-20-08-11-143-u115044.png" crc="119035198" ref="index"/>
+    <file name="0_f4594_236f57f3_-1-orig-u115114.png" crc="346936198" ref="index"/>
+    <file name="0_f459d_99307f8a_orig-u115134.png" crc="3856927101" ref="index"/>
+    <file name="0_f45b8_41e4f963_orig-crop-u115173.jpg" crc="60151671" ref="index"/>
+    <file name="0_f45be_aa72b0d8_orig-crop-u115192.jpg" crc="45368215" ref="index"/>
+    <file name="0_f45c3_f2bc9382_orig-u115234.png" crc="9090885" ref="index"/>
+    <file name="0_f45c2_110a800a_orig-u115214.png" crc="204861438" ref="index"/>
+    <file name="800xs14_9710-m-crop-u115264.jpg" crc="328686844" ref="index"/>
+    <file name="1625540_v3m3bjiedchnvhsecqv8xpzg3n0dzs4nskawiaemsww-crop-u115284.jpg" crc="413024007" ref="index"/>
+    <file name="0_f45d4_3053677b_orig-u115314.png" crc="34265004" ref="index"/>
+    <file name="0_f45cb_635195ed_orig-u115334.png" crc="4272842611" ref="index"/>
+    <file name="0_f45d1_6c589b5a_orig-u115484.png" crc="4109594574" ref="index"/>
+    <file name="img_5774-u115524.png" crc="315415714" ref="index"/>
+    <file name="5-pidjom-na-vershynu-petros-u115504.png" crc="270216237" ref="index"/>
+    <file name="0_f45e0_d36004e5_orig-crop-u115544.jpg" crc="4072482289" ref="index"/>
+    <file name="adrkrmuphnixvobom9r4muv0a-u115584.png" crc="260828534" ref="index"/>
+    <file name="p42-u115564.png" crc="3980275266" ref="index"/>
+    <file name="7-vyd-iz-petrosa-crop-u115604.jpg" crc="310702155" ref="index"/>
+    <file name="11-vyd-na-goverlu-iz-petrosa-crop-u115624.jpg" crc="3917417043" ref="index"/>
+    <file name="wpid-dsc_1374-u115644.png" crc="4009962167" ref="index"/>
+    <file name="wpid-dsc_1397-u115664.png" crc="487018176" ref="index"/>
+    <file name="wpid-dsc_1262-u115684.png" crc="4152492800" ref="index"/>
+    <file name="0_b5507_f71e3500_xxl-crop-u115704.jpg" crc="254794975" ref="index"/>
+    <file name="img_0978-crop-u115724.jpg" crc="271106028" ref="index"/>
+    <file name="img_0982-crop-u115744.jpg" crc="3825028825" ref="index"/>
+    <file name="0_b550d_2014e4f3_xxl-crop-u115764.jpg" crc="261871528" ref="index"/>
+    <file name="0_b550f_1e082818_xxl-crop-u115784.jpg" crc="130553679" ref="index"/>
+    <file name="28_full-crop-u115864.jpg" crc="259299330" ref="index"/>
+    <file name="20_full-u115844.png" crc="4223082108" ref="index"/>
+    <file name="19_full-crop-u115934.jpg" crc="3986595140" ref="index"/>
+    <file name="32_full-crop-u115954.jpg" crc="4003786844" ref="index"/>
+    <file name="dsc_0995-u116034.png" crc="4072368308" ref="index"/>
+    <file name="dsc_0981-u115994.png" crc="3830295994" ref="index"/>
     <file name="1439901125-950033__viaduk2-crop-u114935.jpg" crc="3937023451" ref="index"/>
     <file name="vorohta-lito1-crop-u114955.jpg" crc="3966860390" ref="index"/>
     <file name="ozero-nesamovyte-3-u114975.png" crc="372782437" ref="index"/>
@@ -225,18 +210,16 @@
     <file name="img_0982-crop-u115745.jpg" crc="3890803895" ref="index"/>
     <file name="0_b550d_2014e4f3_xxl-crop-u115765.jpg" crc="459885572" ref="index"/>
     <file name="0_b550f_1e082818_xxl-crop-u115785.jpg" crc="120837551" ref="index"/>
-    <file name="28_full-crop-u115865.jpg" crc="454567179" ref="index"/>
+    <file name="28_full-crop-u115865.jpg" crc="4045856394" ref="index"/>
     <file name="20_full-u115845.png" crc="4134365686" ref="index"/>
     <file name="19_full-crop-u115935.jpg" crc="3902922219" ref="index"/>
     <file name="32_full-crop-u115955.jpg" crc="147676342" ref="index"/>
     <file name="dsc_0995-u116035.png" crc="4103100356" ref="index"/>
     <file name="dsc_0981-u115995.png" crc="3954618501" ref="index"/>
-    <file name="dsc_0990-u116014.png" crc="133999974" ref="index"/>
-    <file name="dsc_0966-u115974.png" crc="3884839202" ref="index"/>
-    <file name="u11592-285.png" crc="519745403" ref="index"/>
-    <file name="u11606-455.png" crc="186614454" ref="index"/>
-    <file name="u11611-595.png" crc="4105123438" ref="index"/>
-    <file name="u11608-175.png" crc="137821649" ref="index"/>
+    <file name="dsc_0990-u116014.png" crc="108856714" ref="index"/>
+    <file name="dsc_0966-u115974.png" crc="263060552" ref="index"/>
+    <file name="dsc_0990-u116015.png" crc="133999974" ref="index"/>
+    <file name="dsc_0966-u115975.png" crc="3884839202" ref="index"/>
   </folder>
-  <file name="index.html" crc="280790271" seo="true" mt="1492497182139" redirect="true"/>
+  <file name="index.html" crc="3926102045" seo="true" mt="1492528677152" redirect="true"/>
 </manifest>

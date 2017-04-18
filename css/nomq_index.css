@@ -253,27 +253,54 @@
 		left: 51.1%;
 	}
 
-	#u11490-6
+	#pu11490-6
 	{
-		line-height: 29px;
 		margin-top: 45px;
-		width: 97.92%;
-		margin-left: 1.05%;
+		width: 100%;
+	}
+
+	#u11497
+	{
+		margin-right: -10000px;
+		margin-top: 282px;
+		width: 47.82%;
+		left: 1.05%;
 	}
 
 	#u11499
 	{
 		margin-right: -10000px;
+		margin-top: 282px;
 		width: 48.03%;
 		left: 50.94%;
 	}
 
-	#u11501-6
+	#pu11501-6
 	{
-		line-height: 29px;
-		margin-top: 49px;
-		width: 97.92%;
-		margin-left: 1.05%;
+		margin-top: 50px;
+		width: 100%;
+	}
+
+	#u11504
+	{
+		margin-right: -10000px;
+		margin-top: 185px;
+		width: 47.82%;
+		left: 51.15%;
+	}
+
+	#u11506
+	{
+		margin-right: -10000px;
+		margin-top: 185px;
+		width: 47.82%;
+		left: 1.05%;
+	}
+
+	#pu11508-4
+	{
+		margin-top: 20px;
+		width: 100%;
 	}
 
 	#u11508-4
@@ -306,6 +333,7 @@
 
 	#u11515-4
 	{
+		min-height: 23px;
 		font-size: 18px;
 		line-height: 22px;
 		margin-right: -10000px;
@@ -315,6 +343,7 @@
 
 	#u11516-4
 	{
+		min-height: 23px;
 		font-size: 18px;
 		line-height: 22px;
 		margin-right: -10000px;
@@ -341,8 +370,19 @@
 	#u11502-6
 	{
 		line-height: 29px;
+		margin-right: -10000px;
 		width: 97.92%;
-		margin-left: 1.1%;
+		left: 1.1%;
+	}
+
+	#u11517
+	{
+		display: block;
+		vertical-align: top;
+		margin-right: -10000px;
+		margin-top: 126px;
+		width: 47.82%;
+		left: 1.05%;
 	}
 
 	#u11519
@@ -350,14 +390,39 @@
 		display: block;
 		vertical-align: top;
 		margin-right: -10000px;
+		margin-top: 126px;
 		width: 47.82%;
 		left: 51.15%;
 	}
 
-	#u11503-6,#u11525-4
+	#u11490-6,#u11501-6,#u11503-6
 	{
 		line-height: 29px;
-		margin-top: 42px;
+		margin-right: -10000px;
+		width: 97.92%;
+		left: 1.05%;
+	}
+
+	#u11521
+	{
+		margin-right: -10000px;
+		margin-top: 99px;
+		width: 47.82%;
+		left: 51.15%;
+	}
+
+	#u11523
+	{
+		margin-right: -10000px;
+		margin-top: 99px;
+		width: 47.87%;
+		left: 0.99%;
+	}
+
+	#u11525-4
+	{
+		line-height: 29px;
+		margin-top: 41px;
 		width: 97.92%;
 		margin-left: 1.05%;
 	}
@@ -407,7 +472,7 @@
 		width: 100%;
 	}
 
-	#pu11560
+	#pu11503-6,#pu11560
 	{
 		margin-top: 42px;
 		width: 100%;
@@ -441,7 +506,7 @@
 		left: 0.99%;
 	}
 
-	#u11504,#u11513,#u11521,#u11528,#u11533,#u11562,#u11566,#u11570
+	#u11513,#u11528,#u11533,#u11562,#u11566,#u11570
 	{
 		margin-right: -10000px;
 		width: 47.82%;
@@ -480,7 +545,7 @@
 		left: 1.05%;
 	}
 
-	#u11523,#u11526,#u11572,#u11576
+	#u11526,#u11572,#u11576
 	{
 		margin-right: -10000px;
 		width: 47.87%;
@@ -526,17 +591,10 @@
 		margin-left: 1.05%;
 	}
 
-	#pu11497,#pu11593
+	#pu11593
 	{
 		margin-top: 1px;
 		width: 100%;
-	}
-
-	#u11493,#u11497,#u11506,#u11511,#u11586,#u11593
-	{
-		margin-right: -10000px;
-		width: 47.82%;
-		left: 1.05%;
 	}
 
 	#u11595
@@ -554,16 +612,14 @@
 		margin-left: 1.05%;
 	}
 
-	#pu11517,#pu11523,#pu11526,#pu11548,#pu11601
+	#pu11526,#pu11548,#pu11601
 	{
 		margin-top: -1px;
 		width: 100%;
 	}
 
-	#u11517,#u11601
+	#u11493,#u11511,#u11586,#u11593,#u11601
 	{
-		display: block;
-		vertical-align: top;
 		margin-right: -10000px;
 		width: 47.82%;
 		left: 1.05%;
@@ -585,8 +641,6 @@
 
 	#u11597
 	{
-		display: block;
-		vertical-align: top;
 		margin-right: -10000px;
 		margin-top: 1px;
 		width: 47.82%;
@@ -608,14 +662,15 @@
 		margin-left: 1.05%;
 	}
 
-	#pu11508-4,#pu11605-4
+	#pu11605-4
 	{
-		margin-top: 20px;
+		margin-top: -7px;
 		width: 100%;
 	}
 
 	#u11605-4
 	{
+		min-height: 84px;
 		line-height: 29px;
 		margin-right: -10000px;
 		width: 97.97%;
@@ -624,8 +679,6 @@
 
 	#infa
 	{
-		width: 22px;
-		margin-right: -10000px;
 		left: 951px;
 	}
 
@@ -633,24 +686,37 @@
 	{
 		min-height: 123px;
 		line-height: 96px;
-		top: -1px;
-		margin-bottom: -1px;
+		top: -5px;
+		margin-bottom: -5px;
 		width: 95.94%;
 		margin-left: 2.87%;
 	}
 
 	#u11592-28
 	{
+		min-height: 224px;
 		width: 97.92%;
 		margin-left: 1.05%;
+	}
+
+	#u11592-4,#u11592-8,#u11592-12,#u11592-16,#u11592-17,#u11592-21,#u11592-25
+	{
+		font-size: 24px;
+		line-height: 29px;
 	}
 
 	#u11538-4
 	{
 		min-height: 122px;
 		line-height: 96px;
+		margin-top: 8px;
 		width: 95.94%;
 		margin-left: 2.87%;
+	}
+
+	#pu11481,#pu11493,#u11493_img,#pu11511,#pu11502-6,#pu11531,#u11554_img,#pu11558,#u11562_img,#pu11564,#pu11568,#u11570_img,#pu11572,#u11574_img,#pu11576,#u11578_img,#pu11586,#u11586_img,#u11593_img,#ppu11606-45
+	{
+		width: 100%;
 	}
 
 	#pu11606-45
@@ -662,6 +728,9 @@
 
 	#u11606-45
 	{
+		background-color: transparent;
+		font-size: 26px;
+		line-height: 31px;
 		width: 99.75%;
 	}
 
@@ -690,14 +759,36 @@
 		margin-left: 50.11%;
 	}
 
-	#pu11481,#pu11493,#u11493_img,#pu11506,#pu11511,#pu11531,#u11554_img,#pu11558,#u11562_img,#pu11564,#pu11568,#u11570_img,#pu11572,#u11574_img,#pu11576,#u11578_img,#pu11586,#u11586_img,#u11593_img,#u11595_img,#ppu11606-45,#u11611-59
+	#u11611-59
 	{
+		min-height: 838px;
+		background-color: transparent;
+		font-size: 26px;
+		line-height: 31px;
 		width: 100%;
 	}
 
 	#u11608-17
 	{
+		min-height: 276px;
+		background-color: transparent;
+		font-size: 26px;
+		line-height: 31px;
 		width: 82.84%;
+	}
+
+	#u11606-2,#u11611-2,#u11608-2
+	{
+		text-transform: uppercase;
+		color: #042006;
+		font-family: open-sans, sans-serif;
+		font-weight: 600;
+	}
+
+	#u11606-4,#u11606-6,#u11606-8,#u11606-10,#u11606-12,#u11606-14,#u11606-16,#u11606-18,#u11606-20,#u11606-22,#u11606-24,#u11606-26,#u11606-28,#u11606-30,#u11606-32,#u11606-34,#u11606-36,#u11606-38,#u11606-40,#u11606-42,#u11606-43,#u11611-4,#u11611-6,#u11611-8,#u11611-10,#u11611-12,#u11611-14,#u11611-16,#u11611-18,#u11611-20,#u11611-22,#u11611-24,#u11611-26,#u11611-28,#u11611-30,#u11611-32,#u11611-34,#u11611-36,#u11611-38,#u11611-40,#u11611-42,#u11611-44,#u11611-46,#u11611-48,#u11611-50,#u11611-52,#u11611-54,#u11611-56,#u11611-57,#u11608-4,#u11608-6,#u11608-8,#u11608-10,#u11608-12,#u11608-14
+	{
+		font-family: open-sans, sans-serif;
+		font-weight: 400;
 	}
 
 	#u11610-10
@@ -732,7 +823,7 @@
 		margin-left: 2.87%;
 	}
 
-	#u11613-14
+	#u11613-13
 	{
 		min-height: 317px;
 		line-height: 29px;
@@ -745,7 +836,7 @@
 		min-height: 65px;
 		line-height: 31px;
 		width: 81.05%;
-		margin-left: 10.32%;
+		margin-left: 9.48%;
 	}
 
 
