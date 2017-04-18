@@ -85,11 +85,13 @@
 		min-height: 308px;
 	}
 
-	#u11481
+	#u17363
 	{
+		width: 1072px;
+		min-height: 639px;
+		position: relative;
 		margin-right: -10000px;
-		width: 55.16%;
-		left: 2.61%;
+		left: 72px;
 	}
 
 	#pu14786
@@ -187,6 +189,7 @@
 		min-height: 54px;
 		font-size: 30px;
 		line-height: 36px;
+		margin-top: 15px;
 		width: 33.86%;
 		margin-left: 2.61%;
 	}
@@ -208,7 +211,7 @@
 	{
 		min-height: 101px;
 		line-height: 96px;
-		margin-top: 38px;
+		margin-top: 13px;
 		width: 56.72%;
 		margin-left: 2.87%;
 	}
@@ -714,7 +717,7 @@
 		margin-left: 2.87%;
 	}
 
-	#pu11481,#pu11493,#u11493_img,#pu11511,#pu11502-6,#pu11531,#u11554_img,#pu11558,#u11562_img,#pu11564,#pu11568,#u11570_img,#pu11572,#u11574_img,#pu11576,#u11578_img,#pu11586,#u11586_img,#u11593_img,#ppu11606-45
+	#pu17363,#pu11493,#u11493_img,#u11495_img,#pu11511,#pu11502-6,#u11526_img,#pu11531,#u11554_img,#pu11558,#u11562_img,#pu11564,#pu11568,#u11570_img,#pu11572,#u11572_img,#u11574_img,#pu11576,#u11576_img,#u11578_img,#pu11586,#u11586_img,#u11593_img,#u11595_img,#ppu11606-45
 	{
 		width: 100%;
 	}
